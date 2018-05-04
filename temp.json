@@ -1,0 +1,31 @@
+{
+  "ID": [
+    {
+      "model_date": "2018-03-01 10:04:32",
+      "Type": "chain",
+      "Market": "BTC-VTC",
+      "Pos": "98",
+      "Bid": "0.000343",
+      "Cur_rate": "0.000340",
+      "Total": "8.4546"
+    },
+    {
+      "model_date": "2018-03-01 10:05:32",
+      "Type": "chain",
+      "Market": "BTC-LTC",
+      "Pos": "4",
+      "Bid": "0.03441",
+      "Cur_rate": "0.03451",
+      "Total": "21.43"
+    },
+    {
+      "model_date": "2018-03-01 10:03:32",
+      "Type": "chain",
+      "Market": "BTC-USD",
+      "Pos": "1",
+      "Bid": "8203.34",
+      "Cur_rate": "8245.01",
+      "Total": "201.43"
+    }
+  ]
+}
